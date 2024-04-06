@@ -4,7 +4,7 @@
 
 ### Commands
 
-  index.js add       Add a new task
-  index.js list      List all tasks
-  index.js remove    Remove task
-  index.js complete  Complete task
+  * index.js add       Add a new task
+  * index.js list      List all tasks
+  * index.js remove    Remove task
+  * index.js complete  Complete task
